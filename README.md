@@ -1,3 +1,3 @@
 # For-lectures
-This is for the lectures I database management
-New comment
+This is for my lectures in database management at AU
+new comment
